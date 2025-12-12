@@ -1,4 +1,4 @@
-# Academic-Mini-Projects
+# academic-mini-projects
 
 A collection of small academic and personal computer science projects from my undergrad.
 Each folder is a self-contained mini project with its own short README.
