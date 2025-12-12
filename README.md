@@ -1,8 +1,16 @@
-# academic-mini-projects
+# Academic Mini Projects
 
-A collection of small academic and personal computer science projects from my undergrad.
-Each folder is a self-contained mini project with its own short README.
+This repository contains a collection of mini-projects from my undergraduate studies, showcasing various computer science concepts and problem-solving approaches. Each folder represents a self-contained project, highlighting different aspects of programming, algorithm design, and software development.
 
-## Projects
+## Current Projects
 
-- `password_decryptor` – Short C file to decrypt password based on the letter e.
+### 1. [Password Cypher](https://github.com/DariusDahl/academic-mini-projects/blob/main/password-cypher/)
+- **Overview**: A series of programs written in C to demonstrate principles of cryptography through encoding, decoding, and breaking a simple cyphertext. The project explores modular arithmetic, frequency analysis, and implementation of algorithms to manipulate textual input.
+- **Learning Goals**:
+  - Understand the mechanics behind encoding and decoding algorithms.
+  - Implement techniques for analyzing cyphertexts to deduce the encryption key.
+  - Gain experience in handling user input and working with character data programmatically.
+
+---
+
+This repository will continue to grow as I add more academic projects and experiments in various domains of computer science. Check back for updates!
