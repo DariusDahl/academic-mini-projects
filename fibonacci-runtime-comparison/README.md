@@ -44,7 +44,7 @@ Non-recursive Fibonacci(30) = 832040, Average Time of 30 Runs: 0.0000000000 seco
 ```
 
 #### Graph Results:
-![image5](fibonacci-runtime-comparison/Sample_Output_Graph.png)
+![Sample_Output_Graph](Sample_Output_Graph.png)
 
 ## Programming Skills Demonstrated
 
