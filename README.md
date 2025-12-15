@@ -34,6 +34,13 @@ This repository contains a collection of mini-projects from my undergraduate stu
   - Implement validations to enforce logical and positional constraints.
   - Manipulate matrices for dynamic problem-solving in multi-dimensional grids.
 
+### 5. [Fibonacci Algorithm Runtime Comparison](https://github.com/DariusDahl/academic-mini-projects/blob/main/fibonacci-runtime-comparison/)
+- **Overview**: A Python-based timing experiment comparing the execution efficiency of recursive and iterative Fibonacci algorithms. The experiment analyzes computational performance and statistical consistency for different Fibonacci calculations.
+- **Learning Goals**:
+  - Measure runtime differences between recursive and iterative algorithms.
+  - Analyze confidence intervals for runtime consistency.
+  - Visualize computational growth and identify bottlenecks.
+
 ---
 
 This repository will continue to grow as I add more academic projects and experiments in various domains of computer science. Check back for updates!
