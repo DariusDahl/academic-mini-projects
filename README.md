@@ -11,6 +11,14 @@ This repository contains a collection of mini-projects from my undergraduate stu
   - Implement techniques for analyzing cyphertexts to deduce the encryption key.
   - Gain experience in handling user input and working with character data programmatically.
 
+### 2. [Einstein Solid Multiplicity Calculator](https://github.com/DariusDahl/academic-mini-projects/blob/main/statmech-physics/)
+- **Overview**: A Python program analyzing statistical mechanics in coupled Einstein solids. It calculates the multiplicity and probability distribution of macrostates given the number of atoms and total energy.
+- **Learning Goals**:
+  - Translate mathematical physics models into efficient code.
+  - Handle large combinatorial calculations and factorials.
+  - Demonstrate probability normalization and structured tabular outputs.
+  - Explore computational limits in factorial-heavy models.
+
 ---
 
 This repository will continue to grow as I add more academic projects and experiments in various domains of computer science. Check back for updates!
