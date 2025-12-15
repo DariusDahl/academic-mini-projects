@@ -19,6 +19,14 @@ This repository contains a collection of mini-projects from my undergraduate stu
   - Demonstrate probability normalization and structured tabular outputs.
   - Explore computational limits in factorial-heavy models.
 
+### 3. [Bloom Filter False Positive Rate Analysis](https://github.com/DariusDahl/academic-mini-projects/blob/main/bloom-filter-false-positive-rate/)
+- **Overview**: A Python implementation of a Bloom filter, designed to test membership in a set, with a focus on analyzing its false positive rate.
+- **Learning Goals**:
+  - Understand the principles of probabilistic data structures.
+  - Explore the relationship between Bloom filter parameters and accuracy.
+  - Implement custom hash functions to optimize performance.
+  - Measure and analyze false positive rates.
+
 ---
 
 This repository will continue to grow as I add more academic projects and experiments in various domains of computer science. Check back for updates!
