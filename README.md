@@ -27,6 +27,13 @@ This repository contains a collection of mini-projects from my undergraduate stu
   - Implement custom hash functions to optimize performance.
   - Measure and analyze false positive rates.
 
+### 4. [Suguru Backtracking Solver](https://github.com/DariusDahl/academic-mini-projects/blob/main/suguru-backtracking-solver/)
+- **Overview**: A Python program that solves Suguru puzzles using recursive backtracking. The solver adheres to puzzle rules, ensuring validation and correct number placement within given configurations.
+- **Learning Goals**:
+  - Apply recursive backtracking to solve constraint-based problems.
+  - Implement validations to enforce logical and positional constraints.
+  - Manipulate matrices for dynamic problem-solving in multi-dimensional grids.
+
 ---
 
 This repository will continue to grow as I add more academic projects and experiments in various domains of computer science. Check back for updates!
